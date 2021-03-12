@@ -16,3 +16,26 @@ Underline 2
 - letra tipo **bold strong** de la primer forma
 - letra tipo __bold strong__ de la primer forma
 - letra de tipo ~~taclado~~
+
+# Links
+- [Esto es un link](http://www.google.com)
+
+# Imagen
+![Logo github](https://image.flaticon.com/icons/png/512/25/25231.png)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
